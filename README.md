@@ -11,4 +11,4 @@ The classic game recreated using Pygame and python.
 - automatic generation of ships on the board<br/>
 
 ### Screenshot<br/>
-<img src="http://prntscr.com/o06xra" width="350px" height="700px"/>
+<img src="https://i.imgur.com/gxo8yU2.png" width="350px" height="700px"/>
