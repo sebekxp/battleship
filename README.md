@@ -12,5 +12,9 @@ The classic game recreated using Pygame and python.
 - when you hit the ship, the field turns green and when you shoot down the whole ship, all of the ship's fields turn red
 - automatic generation of ships on the board<br/>
 
-### Screenshot<br/>
+### Screenshots<br/>
 <img src="https://i.imgur.com/gxo8yU2.png" width="800px" height="780px"/>
+<img src="https://i.imgur.com/Dt59tV0.png" width="800px" height="780px"/>
+<img src="https://i.imgur.com/ZXrwlhb.png" width="800px" height="780px"/>
+<img src="https://i.imgur.com/6Tt1reB.png" width="800px" height="780px"/>
+
